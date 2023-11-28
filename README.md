@@ -19,7 +19,9 @@ while True:
 ```
 ![image](https://github.com/JSHTIRED/lotto/assets/143377935/4c295211-00b2-439e-9586-ff58d59d217c)
 
-## 3. 프로그램 결과 검증은 생성된 번호들의 경우의 수 전체를 당첨번호와 비교하여 모든 경우를 실행시 결과에 대한 결과를 보여줌
+## 3. 프로그램 결과 검증.py
+프로그램 결과 검증은 생성된 번호들의 경우의 수 전체를 당첨번호와 비교하여 모든 경우를 실행시 결과에 대한 결과를 보여줌
+![image](https://github.com/JSHTIRED/lotto/assets/143377935/bd7cec3e-19e0-44c4-9c9b-0fb79881b8f5)
 
 ---
 
